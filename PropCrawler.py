@@ -45,10 +45,6 @@ def scraper(x):
 
     Features = Features[2:-2]
     return Location, Features, Prices
-#Toilets.pop(0, 1, 23, 24)
-#Toilets.pop(0)
-#Toilets.pop(21)
-#Toilets.pop(21)
 
 urls = [url, url1]
 for i in range(3, 50):
